@@ -8,7 +8,7 @@ labels: bug
 
 1.
 
-## What should happe
+## What should happen?
 
 ## What actually happens?
 
