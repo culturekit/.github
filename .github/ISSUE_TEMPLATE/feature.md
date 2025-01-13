@@ -1,6 +1,7 @@
 ---
 name: Feature request
 about: Use this template to request new features or improvements to existing features.
+labels: enhancement
 ---
 
 ## Summary
@@ -19,7 +20,7 @@ about: Use this template to request new features or improvements to existing fea
 
 <!-- Give a detailed list of requirements that describe the feature proposal. -->
 
-- 
+-
 
 ## Out of scope
 
