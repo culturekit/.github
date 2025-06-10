@@ -21,6 +21,10 @@ about: Use this template to request new features or improvements to existing fea
 
 -
 
+## Expected impact
+
+<!-- Describe the expected impact of these changes, including potential unintended consequences. Assign a risk level (low, medium, high) if needed. -->
+
 ## Out of scope
 
 <!-- Optional: Mention what changes are out of scope for this feature request. Link to related issues here. -->
